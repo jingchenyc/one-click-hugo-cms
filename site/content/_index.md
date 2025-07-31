@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: img/featured.jpg
+image: img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
@@ -26,6 +26,10 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: img/illustrations-coffee-gear.svg
+    text: test3
+  - image: img/illustrations-tutorials.svg
+    text: test4
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
